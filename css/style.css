@@ -1,0 +1,7 @@
+body {
+  padding: 30px;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#a36aff), to(#d66eff));
+  background-image: linear-gradient(#a36aff, #d66eff);
+  min-height: 100vh; }
+
+/*# sourceMappingURL=style.css.map */
